@@ -1,0 +1,11 @@
+IDEA
+
+ * concept of a card
+ * concept of a deck of cards
+ * concept of a stack, a-la a container (hand, this pile, that pile)
+
+TODO
+
+ * simulate French decks of cards: https://en.wikipedia.org/wiki/Standard_52-card_deck
+ * everything else
+
